@@ -1,0 +1,486 @@
+{
+    "site": {
+        "title": "portfolio Evren",
+        "subtitle": "// cinéaste",
+        "profile_image": "Images/profil/pfp.png",
+        "banner_image": "Images/profil/banner.jpg",
+        "theme": {
+            "accent": "#ffffff",
+            "background": "#080808",
+            "card": "#141414",
+            "text": "#f0f0f0",
+            "muted_alpha": "0.38",
+            "radius": "10",
+            "sidebar_width": "200",
+            "profile_gray": "30",
+            "banner_gray": "60",
+            "noise": "7",
+            "stars": "100",
+            "card_alpha": "100",
+            "border_alpha": "7",
+            "vignette": "65",
+            "density": "52",
+            "project_ratio": "56",
+            "media_zoom": "cover",
+            "modal_blur": "10",
+            "motion": "100",
+            "font_scale": "100"
+        },
+        "labels": {
+            "home_tab": "accueil",
+            "about_tab": "profil",
+            "projects_tab": "projets",
+            "asso_tab": "mon asso",
+            "skills_tab": "competences",
+            "settings": "parametres"
+        }
+    },
+    "home": {
+        "eyebrow": "bienvenue",
+        "name": "Evren",
+        "description": "Jeune réalisateur, je souhaite faire vibrer le cœur des gens et leur donner de l'espoir.",
+        "counters": [
+            {
+                "num": "4",
+                "label": "// projets"
+            },
+            {
+                "num": "1",
+                "label": "// premier film"
+            },
+            {
+                "num": "∞",
+                "label": "// idées"
+            }
+        ]
+    },
+    "about": {
+        "email": "",
+        "readme_label": "about.md",
+        "socials": [
+            {
+                "platform": "instagram",
+                "handle": "@evren_trk",
+                "url": "https://www.instagram.com/evren_trk?utm_source=qr"
+            }
+        ],
+        "username": "Evren",
+        "badges": [
+            "🍿 passionné de cinéma",
+            "🎥 réalisateur",
+            "✒️ scénariste"
+        ],
+        "cycle_words": [
+            "le cinéma",
+            "tourner",
+            "écrire",
+            "raconter",
+            "la lumière",
+            "le cadrage",
+            "les sons",
+            "l'image",
+            "créer",
+            "les couleurs",
+            "le noir et blanc",
+            "les ambiances",
+            "la mise en scène"
+        ],
+        "bio1": "Je m'appelle <strong>Evren</strong> et j'aime écrire et écouter des histoires depuis mon plus jeune âge. Mon rêve, c'est de devenir réalisateur, et j'ai déjà pu réaliser quelques projets ces derniers temps. Voici un petit aperçu.",
+        "bio2": "J'aime l'art en général mais surtout le travail en équipe et je souhaite véhiculer des messages profonds et remplis d'espoir au travers de mes projets&nbsp;!",
+        "instagram_handle": "@evren_trk",
+        "instagram_url": "https://www.instagram.com/evren_trk?utm_source=qr"
+    },
+    "projects": [
+        {
+            "key": "UMAMI",
+            "title": "UMAMI",
+            "card_title": "UMAMI",
+            "card_sub": "// drame musical · 20 min",
+            "card_image": "Images/Projet/UMAMI/affiche-umami-39ae93.png",
+            "featured": true,
+            "lang": "// drame musical · 20 min",
+            "intro": "Mon tout premier court-métrage, et mon premier vrai pas dans la réalisation.",
+            "description": "Marqué par la trahison de son ancien ami, Aaron, un jeune beatmaker se donne pour mission de révolutionner la musique en inventant un nouveau style : l'Umami. Pour faire exister sa vision, il est prêt à tout, quitte à se heurter aux critiques des plus grands de son milieu.\r\n\r\nC'est un Projet très personnel, porté par un message profond et essentiel à mes yeux.",
+            "tags": [
+                {
+                    "label": "TRAVAUX EN COURS (1ere partie terminée)",
+                    "type": "wip"
+                },
+                {
+                    "label": "COURT MÉTRAGE",
+                    "type": "orange"
+                },
+                {
+                    "label": "20 MIN",
+                    "type": "blue"
+                },
+                {
+                    "label": "MUSIQUE",
+                    "type": "violet"
+                }
+            ],
+            "images": [
+                "Images/Projet/tournage/UMAMI/tournage1 umami (1).jpg",
+                "Images/Projet/tournage/UMAMI/tournage1 umami (2).jpg",
+                "Images/Projet/tournage/UMAMI/tournage1 umami (3).jpg",
+                "Images/Projet/tournage/UMAMI/tournage1 umami (4).jpg",
+                "Images/Projet/tournage/UMAMI/tournage1 umami (5).jpg",
+                "Images/Projet/tournage/UMAMI/tournage1 umami (6).jpg",
+                "Images/Projet/tournage/UMAMI/tournage1 umami (7).jpg",
+                "Images/Projet/UMAMI/affiche-umami-39ae93.png",
+                "Images/Projet/UMAMI/img-4990-e7b46a.png"
+            ],
+            "videos": [
+                "https://res.cloudinary.com/dyehti9ax/video/upload/q_auto:eco,vc_auto/v1778254696/evren-v4/UMAMI/fxvxjkx8ll7wdtompops.mov"
+            ],
+            "details": {
+                "sortie": "LA PARTIE 1 est sortie le 2 et 3 mai 2026 ( date de sortie de la PARTIE 2 indéterminée )",
+                "tournage": "environ 6 à 7 jours",
+                "duree": "en cours depuis près de 11 mois",
+                "acteurs": "7 à 10 acteurs/trices",
+                "role": "réalisateur",
+                "lieu": "Festival Cinémantes, 4e édition 2026",
+                "status": "wip"
+            }
+        },
+        {
+            "key": "Versatile Musique Saison 1",
+            "title": "Versatile Musique Saison 1",
+            "card_title": "Versatile Musique S1",
+            "card_sub": "// série musicale · saison 1",
+            "card_image": "Images/Projet/Versatile/saison1.png",
+            "featured": false,
+            "lang": "// série musicale · saison 1",
+            "intro": "Une première immersion concrète dans l'audiovisuel à travers un grand Projet musical.",
+            "description": "Dans cette première saison de Versatile Musique, 11 artistes français du Mantois et de la région parisienne se réunissent pour faire vibrer les cœurs et lever les bras du public. Chacun y affirme son style, sa culture et son énergie pour faire découvrir un nouvel univers musical.\r\n\r\nCe Projet important pour mon association m'a permis de faire mes premiers pas dans l'audiovisuel et de rencontrer des personnes incroyables.",
+            "tags": [
+                {
+                    "label": "TERMINÉ",
+                    "type": "wip"
+                },
+                {
+                    "label": "SÉRIE MUSICALE",
+                    "type": "orange"
+                },
+                {
+                    "label": "PROJET COLLABORATIF",
+                    "type": "violet"
+                },
+                {
+                    "label": "MUSIQUE",
+                    "type": "violet"
+                }
+            ],
+            "images": [
+                "Images/Projet/tournage/VERSATILE/tournage versatile.jpg",
+                "Images/Projet/tournage/VERSATILE/tournage versatile 1.jpg",
+                "Images/Projet/tournage/VERSATILE/tournage versatile 2.jpg",
+                "Images/Projet/tournage/VERSATILE/tournage versatile 3.jpg",
+                "Images/Projet/tournage/VERSATILE/tournage versatile 4.jpg",
+                "Images/Projet/tournage/VERSATILE/tournage versatile 5.jpg",
+                "Images/Projet/tournage/VERSATILE/versatile 6.jpg",
+                "Images/Projet/tournage/VERSATILE/versatile 7.jpg",
+                "Images/Projet/tournage/VERSATILE/versatile 8.jpg",
+                "Images/Projet/tournage/VERSATILE/versatile 9.jpg",
+                "Images/Projet/tournage/VERSATILE/versatile 10.jpg"
+            ],
+            "videos": [],
+            "details": {
+                "sortie": "Showcase : 23 et 24 avril 2026 — Version finale : 2 et 3 mai 2026 au Festival Cinémantes",
+                "tournage": "environ 2 à 3 semaines",
+                "duree": "en cours depuis 2 à 3 années",
+                "acteurs": "11 artistes principaux + 3 à 4 artistes secondaires",
+                "role": "photographe d'événements, assistant cam",
+                "lieu": "Festival Cinémantes, 2 et 3 mai 2026",
+                "status": "done"
+            }
+        },
+        {
+            "key": "لا تنسى",
+            "title": "لا تنسى",
+            "card_title": "لا تنسى",
+            "card_sub": "// drame · mémoire & origines",
+            "card_image": "Images/Projet/NP/noubliepa.png",
+            "featured": false,
+            "lang": "// drame · mémoire & origines · 15 min",
+            "intro": "Un récit sensible sur la mémoire, les origines et ce qu'on choisit de transmettre.",
+            "description": "Parce qu'il est essentiel de savoir d'où l'on vient pour comprendre où l'on va, une jeune femme décide d'aider de tout son cœur son voisin, déterminé à rejeter ses origines, son histoire et son passé.\n\nCette histoire profonde et touchante m'a offert un tournage riche en apprentissages et a nourri ma vision du cinéma et de la réalisation.",
+            "tags": [
+                {
+                    "label": "TRAVAUX EN COURS",
+                    "type": "wip"
+                },
+                {
+                    "label": "ORIGINES",
+                    "type": "violet"
+                },
+                {
+                    "label": "TRISTE",
+                    "type": "violet"
+                },
+                {
+                    "label": "15 MIN",
+                    "type": "blue"
+                }
+            ],
+            "images": [
+                "Images/Projet/tournage/NP/tournage n'oublie pas.jpg",
+                "Images/Projet/tournage/NP/tournage n'oublie pas 1.jpg",
+                "Images/Projet/tournage/NP/tournage n'oublie pas 2.jpg",
+                "Images/Projet/tournage/NP/tournage n'oublie pas 3.png",
+                "Images/Projet/tournage/NP/tournage n'oublie pas 4.png"
+            ],
+            "videos": [],
+            "details": {
+                "sortie": "date de sortie non encore déterminée",
+                "tournage": "environ 2 jours",
+                "duree": "en cours depuis près de 5 mois",
+                "acteurs": "5 à 8 acteurs/trices",
+                "role": "script, assistant électro",
+                "lieu": "lieu et date de sortie non encore déterminés",
+                "status": "wip"
+            }
+        },
+        {
+            "key": "LOIN DES FRONTIÈRES",
+            "title": "LOIN DES FRONTIÈRES",
+            "card_title": "LOIN DES FRONTIÈRES",
+            "card_sub": "// drame social · 10 min",
+            "card_image": "Images/Projet/LDF/loindesfrontieres.png",
+            "featured": false,
+            "lang": "// drame social · 10 min",
+            "intro": "Un court-métrage porté par un message de paix et d'espoir pour la jeunesse.",
+            "description": "Samba, un jeune homme ayant fui son pays à cause de la guerre, rejoint un collège en France. Ne maîtrisant pas encore bien la langue, il devient la cible des autres élèves. À travers lui, ce court-métrage défend un message de paix, de solidarité et d'espoir pour les jeunes du monde entier.\r\n\r\nJ'ai eu la chance d'y participer comme assistant réalisateur, une expérience qui m'a permis d'affiner ma compréhension du rôle de réalisateur à travers le regard d'un autre cinéaste.",
+            "tags": [
+                {
+                    "label": "TRAVAUX EN COURS",
+                    "type": "wip"
+                },
+                {
+                    "label": "COURT MÉTRAGE",
+                    "type": "orange"
+                },
+                {
+                    "label": "ÉDUCATION",
+                    "type": "violet"
+                },
+                {
+                    "label": "10 MIN",
+                    "type": "blue"
+                }
+            ],
+            "images": [
+                "Images/Projet/tournage/LDF/tournage loin des frontières.jpg",
+                "Images/Projet/tournage/LDF/tournage loin des frontières 1.jpg",
+                "Images/Projet/tournage/LDF/tournage loin des frontières 2.jpg",
+                "Images/Projet/tournage/LDF/tournage loin des frontières 3.jpg",
+                "Images/Projet/tournage/LDF/tournage loin des frontières 4.jpg",
+                "Images/Projet/tournage/LDF/tournage loin des frontières 5.jpg"
+            ],
+            "videos": [],
+            "details": {
+                "sortie": "au mois de juin (date exacte non encore déterminée)",
+                "tournage": "environ 3 jours",
+                "duree": "en cours depuis près de 4 mois",
+                "acteurs": "15 à 20 acteurs/trices",
+                "role": "Technicien responsable du clap, assistant électro, assistant cam, assistant réalisateur, directeur de la figuration",
+                "lieu": "lieu et date exacte non encore déterminés",
+                "status": "wip"
+            }
+        }
+    ],
+    "asso": {
+        "name": "Sans Que Tu Ères",
+        "short": "SQTE",
+        "bg_image": "Images/monasso/monasso.png",
+        "logo": "Images/monasso/logoSQTE.png",
+        "kicker": "un lieu créatif",
+        "location": "Association indépendante dans le Mantois (78)",
+        "tags": [
+            "mission",
+            "collectif",
+            "tournages",
+            "rencontres"
+        ],
+        "description": "Cette association nous permet de développer des projets personnels afin d'apprendre les métiers de l'audiovisuel et d'enrichir nos connaissances personnelles tout en rencontrant des gens en or.<br><br>Je suis membre actif de cette association depuis bientôt 2 ans et j'ai eu la chance de développer mon propre projet individuel et de participer à un grand nombre de projets, ce qui m'a permis d'apprendre la pratique et la théorie du monde de l'audiovisuel.",
+        "checklist": [
+            "membres dans l'association : entre 50 et 100 membres",
+            "association active depuis 2022",
+            "association à but non lucratif",
+            "localisation : Mantes-la-Ville (78)"
+        ],
+        "instagram_url": "https://www.instagram.com/sqteofficiel/",
+        "instagram_handle": "@sqteofficiel",
+        "youtube_url": "https://www.youtube.com/@sqteofficiel",
+        "youtube_handle": "@sqteofficiel",
+        "email": "sqteofficiel@gmail.com"
+    },
+    "skills": [
+        {
+            "name": "écriture",
+            "pct": 80
+        },
+        {
+            "name": "ingé son",
+            "pct": 30
+        },
+        {
+            "name": "montage",
+            "pct": 30
+        },
+        {
+            "name": "gestion décors / accessoires",
+            "pct": 70
+        },
+        {
+            "name": "casting",
+            "pct": 70
+        },
+        {
+            "name": "acteur",
+            "pct": 70
+        },
+        {
+            "name": "costumes",
+            "pct": 70
+        },
+        {
+            "name": "réalisation",
+            "pct": 70
+        },
+        {
+            "name": "photographie",
+            "pct": 50
+        }
+    ],
+    "roles": {
+        "realisateur": {
+            "label": "realisateur",
+            "modal_title": "realisateur",
+            "icon": "🎬",
+            "projects": [
+                "UMAMI"
+            ],
+            "description": "En tant que realisateur, je suis responsable de la vision artistique globale du Projet.",
+            "images": [
+                "Images/compet/REALISATEUR/realisateur.png",
+                "Images/compet/REALISATEUR/realisateur2.png",
+                "Images/compet/REALISATEUR/realisateur3.png",
+                "Images/compet/REALISATEUR/realisateur4.png"
+            ]
+        },
+        "assistant_realisateur": {
+            "label": "assistant realisateur",
+            "modal_title": "assistant realisateur",
+            "icon": "🧭",
+            "projects": [
+                "LOIN DES FRONTIERES"
+            ],
+            "description": "En tant qu'assistant realisateur, j'ai aide a coordonner les equipes et a respecter le planning de tournage.",
+            "images": [
+                "Images/compet/ASSISTANT_REALISATEUR/assistant_realisteur.png"
+            ]
+        },
+        "scenariste": {
+            "label": "scenariste",
+            "modal_title": "scenariste",
+            "icon": "✍️",
+            "projects": [
+                "UMAMI"
+            ],
+            "description": "J'ai participe a l'ecriture du scenario, construisant la structure narrative et les dialogues.",
+            "images": [
+                "Images/compet/SCNENARISTE/scenariste.png",
+                "Images/compet/SCNENARISTE/scenariste2.png",
+                "Images/compet/SCNENARISTE/scenariste3.png",
+                "Images/compet/SCNENARISTE/scenariste4.png"
+            ]
+        },
+        "assistant_inge_son": {
+            "label": "assistant inge-son",
+            "modal_title": "assistant inge-son",
+            "icon": "🎙️",
+            "projects": [
+                "لا تنسى"
+            ],
+            "description": "J'ai assiste l'ingenieur du son lors des prises de son sur le tournage.",
+            "images": []
+        },
+        "assistant_electro": {
+            "label": "assistant electro",
+            "modal_title": "assistant electro",
+            "icon": "💡",
+            "projects": [
+                "لا تنسى",
+                "LOIN DES FRONTIERES"
+            ],
+            "description": "J'ai participe a l'installation et la gestion des equipements d'eclairage.",
+            "images": [
+                "Images/compet/ASSISTANT_ELECTRO/assistant_electro.png",
+                "Images/compet/ASSISTANT_ELECTRO/assistant_electro2.png",
+                "Images/compet/ASSISTANT_ELECTRO/assistant_electro3.png",
+                "Images/compet/ASSISTANT_ELECTRO/assistant_electro4.png"
+            ]
+        },
+        "assistant_decorateur": {
+            "label": "assistant decorateur",
+            "modal_title": "assistant decorateur",
+            "icon": "🎨",
+            "projects": [
+                "UMAMI"
+            ],
+            "description": "J'ai contribue a la preparation et a l'habillage des decors.",
+            "images": []
+        },
+        "directeur_figuration": {
+            "label": "directeur de la figuration",
+            "modal_title": "directeur de la figuration",
+            "icon": "👥",
+            "projects": [
+                "LOIN DES FRONTIERES"
+            ],
+            "description": "J'ai gere la coordination et le placement des figurants sur les scenes.",
+            "images": []
+        },
+        "assistant_cam": {
+            "label": "assistant cam",
+            "modal_title": "assistant cam",
+            "icon": "📷",
+            "projects": [
+                "Versatile Musique Saison 1"
+            ],
+            "description": "J'ai assiste le cadreur lors des prises de vues.",
+            "images": [
+                "Images/compet/ASSISTANT_CAM/assistant_cam.png",
+                "Images/compet/ASSISTANT_CAM/assistant_cam2.png",
+                "Images/compet/ASSISTANT_CAM/assistant_cam3.png"
+            ]
+        },
+        "photographe": {
+            "label": "photographe d'evenement",
+            "modal_title": "photographe",
+            "icon": "📸",
+            "projects": [
+                "Versatile Musique Saison 1"
+            ],
+            "description": "J'ai photographie les evenements et coulisses du Projet.",
+            "images": [
+                "Images/compet/PHOTOGRAPHE_DEVENEMENT/photographe_devenement.png",
+                "Images/compet/PHOTOGRAPHE_DEVENEMENT/photographe_devenement2.png",
+                "Images/compet/PHOTOGRAPHE_DEVENEMENT/photographe_devenement3.png",
+                "Images/compet/PHOTOGRAPHE_DEVENEMENT/photographe_devenement4.png",
+                "Images/compet/PHOTOGRAPHE_DEVENEMENT/photographe_devenement5.png"
+            ]
+        }
+    },
+    "music": [
+        {
+            "file": "Song/audio1.mp3",
+            "name": ""
+        },
+        {
+            "file": "Song/audio2.mp3",
+            "name": ""
+        }
+    ]
+}
